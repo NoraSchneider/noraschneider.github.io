@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student @ Helmholtz AI working on Causality and Dynamical Systems. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: NoraSchneider.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD Student in Machine Learning at [Helmholtz AI](https://www.helmholtz.ai/) and [TU Munich](https://www.cs.cit.tum.de/en/cs/home/), jointly supervised by [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home) and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). I am also part of the [ELLIS PhD program](https://ellis.eu/phd-postdoc). My research focuses on leveraging causality to address current challenges in machine learning, with a particular emphasis on dynamical systems and their applications in biology and healthcare.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before starting my PhD, I earned a Master's in Data Science from [ETH Zurich](https://inf.ethz.ch/). For my master's thesis, I worked on causal discovery under the supervision of [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea). Additionally, I completed a research project on data augmentation for regression using concepts from causality at the [Swiss Data Science Center](https://www.datascience.ch/) under the supervision of [Prof. Fernando Perez-Cruz](https://www.linkedin.com/in/fernando-perez-cruz-930610b?originalSubdomain=ch).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out for potential collaborations or questions about my work!
+
+**Contact:**  [nora.schneider@helmholtz-munich.de](mailto:nora.schneider@helmholtz-munich.de)
+
+[[Google Scholar]](https://scholar.google.com/citations?user=FzT40OkAAAAJ&hl=en)  /  [[GitHub]](https://github.com/NoraSchneider)   /   [[Linkedin]](https://www.linkedin.com/in/nora-schneider-893a731b3/)
